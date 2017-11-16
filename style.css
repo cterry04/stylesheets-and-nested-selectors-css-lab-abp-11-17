@@ -26,7 +26,7 @@ nav a{
   font-size: 18px;
 }
 h3#header{
-  text-align: left;
+  float: left;
   font-size: 30px;
 }
 #header a{
